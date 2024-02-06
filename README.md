@@ -6,7 +6,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 ### Extras :
 
-MVC, Asp.net, Hibernate, Microservices and JSON
+MVC, Asp.net, Hibernate, Microservices, Maven, Jenkins, Rest and JSON
 
 <h2>📬 Contact</h2>
 
