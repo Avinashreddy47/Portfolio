@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Query Generator",
+    "desc": "Engineered a scalable survey platform with HTML, CSS, JavaScript and node.js, emphasizing intuitive form design for user feedback.Leveraged GCP’s BigQuery for real-time analytics, drawing insights from user interactions within cloud applications on GCP’s Compute and App Engines.",
+    "image": "query",
+    "links": {
+      "code": "https://github.com/Avinashreddy47/querycollector"
+    }
+  },
+  {
+    "name": "Make My Doctor Appointment",
+    "desc": "Developed a responsive web interface tailored for healthcare appointment management, seamlessly integrating physician availability and optimizing patient scheduling in line with database-driven doctor time slots.",
+    "image": "leaf",
+    "links": {
+      "code": "https://github.com/Avinashreddy47/Makemydoctorappointment"
+    }
+  }
+]
